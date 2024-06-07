@@ -1,0 +1,1 @@
+Employee Management System: A CRUD-based project using Eclipse and SQL Workbench for managing employee records including attendance, leave, and employee information. It ensures data integrity and handles null values.
